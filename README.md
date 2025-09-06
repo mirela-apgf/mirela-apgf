@@ -14,4 +14,4 @@
 </div><br/>
 
 
-![Mirela GitHub stats](https://github-readme-stats.vercel.app/api?username=mirela-apgf&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./gatinho.gif" width="200"/>
+![Mirela GitHub stats](https://github-readme-stats.vercel.app/api?username=mirela-apgf&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./imgs/gatinho.gif" width="200"/>
