@@ -1,3 +1,4 @@
+![flores](./imgs/flores.gif)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&width=435&lines=Hi+there!+I'm+Mirela+👋)
 ## About me✨
 
