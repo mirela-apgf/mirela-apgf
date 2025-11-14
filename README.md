@@ -6,7 +6,7 @@
 </br>🌐 English level: Intermediate
 
 ## Find me online 🔗
-[<img src="./imgs/gmail.png" width="50"/>](mailto:mirelaaparecidagalico@gmail.com)
+[<img src="./imgs/gmail.png" width="50"/>](mailto:mirelaaprecidagalico@gmail.com)
 [<img src="./imgs/linkedin.png" width="50"/>](https://www.linkedin.com/in/mirela-fabiani/)
 
 ## My Toolbox 🧰
