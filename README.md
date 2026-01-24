@@ -11,7 +11,7 @@
 
 ## My Toolbox 🧰
 <div style=display: inline_block">
-<img align="center" alt="C" src="./imgs/c.png" width="70"/> <img align="center" alt="Java" src="./imgs/java.png" width="70"/> <img align="center" alt="Python" src="./imgs/python.png" width="70"/> <img align="center" alt="Mysql" src="./imgs/sql.png" width="70"/> <img align="center" alt="Figma" src="./imgs/figma.png" width="70"/> <img align="center" alt="Canva" src="./imgs/canva.png" width="70"/>
+<img align="center" alt="C" src="./imgs/c.png" width="70"/> <img align="center" alt="Java" src="./imgs/java.png" width="70"/> <img align="center" alt="Python" src="./imgs/python.png" width="70"/> <img align="center" alt="Mysql" src="./imgs/sql.png" width="70"/> <img align="center" alt="Figma" src="./imgs/figma.png" width="70"/> <img align="center" alt="Canva" src="./imgs/canva.png" width="70"/> <img align="center" alt="Notion" src="./imgs/Notionc.png" width="70"/>
 </div><br/>
 
 
