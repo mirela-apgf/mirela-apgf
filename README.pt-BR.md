@@ -1,4 +1,15 @@
+<p align="center">
+  🌐 <b>Idiomas:</b> 
+  <a href="./README.md">English 🇺🇸</a> • 
+  <b>Português 🇧🇷</b>
+</p>
+
+<br>
+
 ![flores](./imgs/flores.gif)
+
+<br>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&width=435&lines=Oie!+Eu+sou+a+Mirela+👋)
 
 ## Sobre mim ✨
@@ -6,9 +17,13 @@
 🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas** na *Fatec Americana*  
 </br>🌐 Nível de inglês: Intermediário
 
+<br>
+
 ## Onde me encontrar 🔗
 [<img src="./imgs/gmail.png" width="50"/>](mailto:mirelaaparecidagalico@gmail.com)
 [<img src="./imgs/linkedin.png" width="50"/>](https://www.linkedin.com/in/mirela-galico-fabiani/)
+
+<br>
 
 ## Minhas Ferramentas 🧰
 <div style="display: inline_block">
