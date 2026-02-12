@@ -1,13 +1,29 @@
+<p align="center">
+  🌐 <b>Languages:</b> 
+  <b>English 🇺🇸</b> • 
+  <a href="./README.pt-BR.md">Português 🇧🇷</a>
+</p>
+
+<br>
+
 ![flores](./imgs/flores.gif)
+
+<br>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&width=435&lines=Hi+there!+I'm+Mirela+👋)
+
 ## About me✨
 
 🎓 Currently studying **Analysis and Systems Development** at *Fatec Americana*
 </br>🌐 English level: Intermediate
 
+<br>
+
 ## Find me online 🔗
 [<img src="./imgs/gmail.png" width="50"/>](mailto:mirelaaparecidagalico@gmail.com)
 [<img src="./imgs/linkedin.png" width="50"/>](https://www.linkedin.com/in/mirela-galico-fabiani/)
+
+<br>
 
 ## My Toolbox 🧰
 <div style=display: inline_block">
