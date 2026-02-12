@@ -15,7 +15,7 @@
 ## About me✨
 
 🎓 Currently studying **Analysis and Systems Development** at *Fatec Americana*
-</br>🌐 English level: Intermediate
+</br>✈️ English level: Intermediate
 
 <br>
 
