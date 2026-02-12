@@ -15,7 +15,7 @@
 ## Sobre mim ✨
 
 🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas** na *Fatec Americana*  
-</br>🌐 Nível de inglês: Intermediário
+✈️ Nível de inglês: Intermediário
 
 <br>
 
